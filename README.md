@@ -65,15 +65,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GustavoHPadilla&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHPadilla&layout=compact&theme=tokyonight" />
-</div>
-
----
-
 ### 📫 Onde me encontrar
 
 📩 E-mail: **gustavohpadilla9@gmail.com**  
