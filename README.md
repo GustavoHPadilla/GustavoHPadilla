@@ -1,11 +1,5 @@
 <h1 align="center">👋 Olá! Eu sou o Gustavo</h1>
 
-<p align="center">
-  <strong>Desenvolvedor Back-End</strong> focado em criar sistemas seguros, escaláveis e que gerem valor real para empresas.
-</p>
-
----
-
 ### 🚀 Sobre mim
 
 - Desenvolvedor Back-End, apaixonado por tecnologia, automação e resolver problemas reais por meio da programação  
