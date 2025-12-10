@@ -1,6 +1,6 @@
-<h1 align="center">👋 Olá! Eu sou o Gustavo</h1>
+<h1 align="center">👋 Olá! Eu sou o Gustavo!</h1>
 
-### 🚀 Sobre mim
+🚀 Sobre mim
 
 - Desenvolvedor Back-End, apaixonado por tecnologia, automação e resolver problemas reais por meio da programação  
 - Experiência com sistemas **empresariais**, incluindo logística, rastreabilidade e vendas  
