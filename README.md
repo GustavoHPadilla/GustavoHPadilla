@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Gustavo Padilla</h1>
+<h1 align="center">👋 Olá! Eu sou o Gustavo</h1>
 
 <p align="center">
   <strong>Desenvolvedor Back-End</strong> focado em criar sistemas seguros, escaláveis e que gerem valor real para empresas.
